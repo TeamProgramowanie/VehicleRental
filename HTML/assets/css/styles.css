@@ -1,0 +1,22 @@
+.navbar {
+  background: #510000;
+}
+
+body {
+  background: #1F1F23;
+}
+
+.container {
+  color: #fff;
+}
+
+footer {
+  background-color: #510000;
+}
+
+.banner_info {
+  background: rgba(81,0,0,0.8);
+  border-radius: 13px;
+  color: rgb(255,255,255);
+}
+
